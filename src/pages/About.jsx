@@ -8,7 +8,7 @@ function About() {
 
         <p className="mb-6 text-lg leading-relaxed">
           Hello! I'm <span className="font-semibold text-gray-900">Nahin Shahriar</span>,
-          a passionate junior web developer with experience in both frontend and backend
+          a passionate web developer with experience in both frontend and backend
           development. I specialize in building full-stack applications using
           <span className="text-blue-500 font-semibold"> React</span> and
           <span className="text-green-600 font-semibold"> Laravel</span>.
