@@ -9,7 +9,7 @@ function Home() {
           Hi, I'm <span className="text-yellow-300">Nahin Shahriar</span>
         </h1>
         <p className="text-xl mb-8 max-w-lg mx-auto">
-          I’m a passionate Full Stack Developer specializing in React and Laravel. I build clean, efficient, and beautiful web apps.
+          I’m a passionate Software Engineer specializing in React and Laravel. I build clean, efficient, and beautiful web apps.
         </p>
 
         <div className="space-x-6">
